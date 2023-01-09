@@ -147,6 +147,8 @@ Public Class Form1
         Dim g As Graphics = Graphics.FromImage(image)
 
 
+
+
         Dim SaveImagePath = "C:\"
         Dim SaveImageName = "image.jpg"
         Dim SaveImage As New Bitmap(image)
